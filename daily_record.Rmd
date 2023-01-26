@@ -12,17 +12,20 @@ editor_options:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-2023-01-22 Created model file
+2023-01-22 
+Created model file
 <https://github.com/Amethyst1016/DATA534_Project/commit/c93fcbac94de348051f44613d5c3240bf7eb4fe5>
 Get data from URL
 <https://github.com/Amethyst1016/DATA534_Project/commit/ba5f7a6d5b7f8a3a44a98f9bdf7a9e55ce6ce3c6>
 
-2023-01-24 Get data
+2023-01-24 
+Get data
 <https://github.com/Amethyst1016/DATA534_Project/commit/cc6b6264bd1b33bb0feb7aed8f0b3d5050a4e3cd>
 Data wrangling
 <https://github.com/Amethyst1016/DATA534_Project/commit/ab469b15e9cfcf359c2cf09117984e84995717f6>
 
-2023-01-25 Data wrangling
+2023-01-25 
+Data wrangling
 <https://github.com/Amethyst1016/DATA534_Project/commit/2304024ab2f52300a0d9e4cecc8177767f0c29cd>
 Merge all data
 <https://github.com/Amethyst1016/DATA534_Project/commit/0e17ad77a6b5e54aa75d8de77a438dc3fd56a846>
