@@ -1,0 +1,33 @@
+---
+title: "Notebook"
+author: "Ju"
+date: "2023-01-26"
+output: pdf_document
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+2023-01-22 Created model file
+<https://github.com/Amethyst1016/DATA534_Project/commit/c93fcbac94de348051f44613d5c3240bf7eb4fe5>
+Get data from URL
+<https://github.com/Amethyst1016/DATA534_Project/commit/ba5f7a6d5b7f8a3a44a98f9bdf7a9e55ce6ce3c6>
+
+2023-01-24 Get data
+<https://github.com/Amethyst1016/DATA534_Project/commit/cc6b6264bd1b33bb0feb7aed8f0b3d5050a4e3cd>
+Data wrangling
+<https://github.com/Amethyst1016/DATA534_Project/commit/ab469b15e9cfcf359c2cf09117984e84995717f6>
+
+2023-01-25 Data wrangling
+<https://github.com/Amethyst1016/DATA534_Project/commit/2304024ab2f52300a0d9e4cecc8177767f0c29cd>
+Merge all data
+<https://github.com/Amethyst1016/DATA534_Project/commit/0e17ad77a6b5e54aa75d8de77a438dc3fd56a846>
+Plotting
+<https://github.com/Amethyst1016/DATA534_Project/commit/ce308ce5c4a26b58af7623e87cb46741675bde27>
+Modelling
+<https://github.com/Amethyst1016/DATA534_Project/commit/384e4704ac352acb9be938c7f906515cd8698662>
+<https://github.com/Amethyst1016/DATA534_Project/commit/c21a380f91d7ad53434ea85f0c99d49c57cd67b2>
