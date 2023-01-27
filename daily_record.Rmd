@@ -12,19 +12,25 @@ editor_options:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-2023-01-22 Created model file
+2023-01-22 \n
+
+Created model file
 <https://github.com/Amethyst1016/DATA534_Project/commit/c93fcbac94de348051f44613d5c3240bf7eb4fe5>
 
 Get data from URL
 <https://github.com/Amethyst1016/DATA534_Project/commit/ba5f7a6d5b7f8a3a44a98f9bdf7a9e55ce6ce3c6>
 
-2023-01-24 Get data
+2023-01-24 \n
+
+Get data
 <https://github.com/Amethyst1016/DATA534_Project/commit/cc6b6264bd1b33bb0feb7aed8f0b3d5050a4e3cd>
 
 Data wrangling
 <https://github.com/Amethyst1016/DATA534_Project/commit/ab469b15e9cfcf359c2cf09117984e84995717f6>
 
-2023-01-25 Data wrangling
+2023-01-25 \n
+
+Data wrangling
 <https://github.com/Amethyst1016/DATA534_Project/commit/2304024ab2f52300a0d9e4cecc8177767f0c29cd>
 
 Merge all data
@@ -42,3 +48,17 @@ Fit time series cross-validation models
 
 delete SVM
 <https://github.com/Amethyst1016/DATA534_Project/commit/18296001afb89fdf010daf3ab7f1f7c4dcbb8c6d>
+
+2023-01-26 \n
+
+Fit an ARIMA (AutoRegressive Integrated Moving Average) model
+<https://github.com/Amethyst1016/DATA534_Project/commit/58dcf53f00fad8228765f55fd54367c7556db243>
+
+adding ARIMA and Auto ARIMA models
+<https://github.com/Amethyst1016/DATA534_Project/commit/21b6266536aa0844ec04d3b7a4d5770a93bab5e4>
+
+changed to altair
+<https://github.com/Amethyst1016/DATA534_Project/commit/82aaf7a757d4e84a587e1ec6f5eea783cad8fcfc>
+<https://github.com/Amethyst1016/DATA534_Project/commit/e332b570a6d4b05d5ae013b79fd569eaaa949ea0>
+<https://github.com/Amethyst1016/DATA534_Project/commit/23d16b4da5a361321bc9a09ae09600d387f0aa29>
+<https://github.com/Amethyst1016/DATA534_Project/commit/4c4119c009a4309c0dc4864c305491cec40f8d36>
