@@ -62,3 +62,10 @@ changed to altair
 <https://github.com/Amethyst1016/DATA534_Project/commit/e332b570a6d4b05d5ae013b79fd569eaaa949ea0>
 <https://github.com/Amethyst1016/DATA534_Project/commit/23d16b4da5a361321bc9a09ae09600d387f0aa29>
 <https://github.com/Amethyst1016/DATA534_Project/commit/4c4119c009a4309c0dc4864c305491cec40f8d36>
+
+2023-01-30\n
+
+Create model classes
+<https://github.com/Amethyst1016/DATA534_Project/commit/8c7e24735ac34abb35da46f2a8d4bf9138cbed84>
+
+<https://github.com/Amethyst1016/DATA534_Project/commit/8c7e24735ac34abb35da46f2a8d4bf9138cbed84>
