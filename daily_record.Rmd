@@ -69,3 +69,37 @@ Create model classes
 <https://github.com/Amethyst1016/DATA534_Project/commit/8c7e24735ac34abb35da46f2a8d4bf9138cbed84>
 
 <https://github.com/Amethyst1016/DATA534_Project/commit/8c7e24735ac34abb35da46f2a8d4bf9138cbed84>
+
+2023-02-06
+
+[create model
+classes](https://github.com/Amethyst1016/DATA534_Project/commit/2777a94cce13778b510c4160d7b64463f0fbd093)
+
+<https://github.com/Amethyst1016/DATA534_Project/commit/2777a94cce13778b510c4160d7b64463f0fbd093>
+
+<https://github.com/Amethyst1016/DATA534_Project/commit/538a1c962c008663dea122f6a8beefa166844564>
+
+2023-02-07
+
+[Update
+model.py](https://github.com/Amethyst1016/DATA534_Project/commit/ad1e1e256e1e301c253af0fc0c6a7cf4d7163f24)
+
+<https://github.com/Amethyst1016/DATA534_Project/commit/ad1e1e256e1e301c253af0fc0c6a7cf4d7163f24>
+
+[create test
+file](https://github.com/Amethyst1016/DATA534_Project/commit/e6a5631c3585153122f23edd3e13873764cb0569)
+
+<https://github.com/Amethyst1016/DATA534_Project/commit/e6a5631c3585153122f23edd3e13873764cb0569>
+
+[pull](https://github.com/Amethyst1016/DATA534_Project/commit/05fea6ecacd6883cec3917d08b8ae9e39d3528b2)
+
+<https://github.com/Amethyst1016/DATA534_Project/commit/05fea6ecacd6883cec3917d08b8ae9e39d3528b2>
+
+[Delete .ipynb_checkpoints
+directory](https://github.com/Amethyst1016/DATA534_Project/commit/59bae9fbaee4a66891d4128f6b2b588d20ada91d)
+
+<https://github.com/Amethyst1016/DATA534_Project/commit/59bae9fbaee4a66891d4128f6b2b588d20ada91d>
+
+[pull](https://github.com/Amethyst1016/DATA534_Project/commit/b99395fca0979258cf1710e3d9e01ee8036e3ee9)
+
+<https://github.com/Amethyst1016/DATA534_Project/commit/b99395fca0979258cf1710e3d9e01ee8036e3ee9>
